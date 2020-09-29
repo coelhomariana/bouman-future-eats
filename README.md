@@ -1,2 +1,2 @@
 # bouman-future-eats
-Repositório destinado ao Projeto Future Eats da turma Bouman
+Projeto em React simulando app de pedido de comida.
